@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent-api-migrator", "src\fluent-api-migrator\fluent-api-migrator.csproj", "{39137477-A72B-4C29-A665-F9B4C7030097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent-api-migrator.Console", "src\fluent-api-migrator.Console\fluent-api-migrator.Console.csproj", "{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39137477-A72B-4C29-A665-F9B4C7030097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39137477-A72B-4C29-A665-F9B4C7030097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39137477-A72B-4C29-A665-F9B4C7030097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39137477-A72B-4C29-A665-F9B4C7030097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1E8F0B-1035-4E7D-A668-85B2AA53A03E}
+	EndGlobalSection
+EndGlobal
