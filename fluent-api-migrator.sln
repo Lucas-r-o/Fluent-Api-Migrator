@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent-api-migrator", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent-api-migrator.Console", "src\fluent-api-migrator.Console\fluent-api-migrator.Console.csproj", "{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAppDemo.Console", "src\LegacyAppDemo.Console\LegacyAppDemo.Console.csproj", "{0F9D6D0C-7D98-4530-B956-F074F4840143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB34A49-FC7E-444A-AA20-2ACBB2BA0B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9D6D0C-7D98-4530-B956-F074F4840143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9D6D0C-7D98-4530-B956-F074F4840143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9D6D0C-7D98-4530-B956-F074F4840143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9D6D0C-7D98-4530-B956-F074F4840143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
